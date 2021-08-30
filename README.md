@@ -8,12 +8,14 @@ The purpose of this analysis is to compare the results of fundraising campaigns 
 
 # Analysis and Challenges
 We can see the data provided  is organized based on different aspects,
-1-Average amount of donation 
-2-Status and goal of the campaign
-3-The description
-3- Amount pledged, the average amount of donation
-4- Category and subcategory type
-5- The dates on which the campaigns began and ended
+1.  Average amount of donation 
+2.  Status and goal of the campaign
+3.  The description
+4.   Amount pledged, the average amount of donation
+5.   Category and subcategory type
+6.   The dates on which the campaigns began and ended
+
+
 This analysis was achieved  by Filtering  the data
 
 

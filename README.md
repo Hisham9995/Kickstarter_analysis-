@@ -43,7 +43,7 @@ I have created a pivot Table filtered the outcome by category and the launch dat
 
 # Challenges and Difficulties Encountered
 
-I had faced some challenges that I encountered was forgetting to include the criteria within the COUNTIFS() statement. and the Outcomes vs Launch Date analysis difficulties were Grouping the launch dates every month in the PivotTable
+I had faced some challenges that I encountered was forgetting to include the criteria within the COUNTIFS() statement. and the Outcomes vs Launch Date analysis difficulties were Grouping the launch date every month in the PivotTable
 
 
 # Results 
